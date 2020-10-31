@@ -8,6 +8,7 @@ target 'Instagram' do
   pod 'Parse'
   pod 'Alamofire'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   # Pods for testing
   target 'InstagramTests' do
